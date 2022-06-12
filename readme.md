@@ -2,19 +2,30 @@
 
 ## 结构
 
-文件结构 暂无
+#### 文件结构 暂无
+
 -
 
-数据集结构
+#### 数据集结构
+
 -dataset
+
  -train_data
+
   -train 
+
   -A
+
   -B
+
   -label
+
  -test_data
+
   -test
+
    -A
+
    -B
 
 ## 导链（有关请自行补充）：
