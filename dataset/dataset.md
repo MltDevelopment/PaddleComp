@@ -1,0 +1,1 @@
+https://bj.bcebos.com/v1/ai-studio-online/d03aa46215734e96abbfb181310ad4919c8f9b51b5e24407a0636e688d27f03c?responseContentDisposition=attachment%3B%20filename%3Dtrain_data.zip&authorization=bce-auth-v1%2F0ef6765c1e494918bc0d4c3ca3e5c6d1%2F2022-03-25T08%3A11%3A17Z%2F-1%2F%2Fb8ce76284620a347775dfb02fc328f5cfce22027da9250744f50703c852b308e
